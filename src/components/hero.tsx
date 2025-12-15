@@ -53,7 +53,7 @@ export default function Hero() {
 
               <div className="p-4 md:p-6 bg-gradient-to-r from-blue-900/20 to-cyan-900/10 rounded-xl md:rounded-2xl border border-blue-500/20">
                 <p className="text-zinc-300 text-sm md:text-base">
-                  Founder of <Link href="https://kudiwallet.ng" className="font-bold text-green-400 hover:text-green-300 transition-colors break-words">KudiWallet.ng</Link> — a live fintech platform serving <span className="text-blue-300">thousands of users</span> with secure wallet management and payment solutions.
+                  Founder of <Link href="https://kudiwallet.ng" className="font-bold text-green-400 hover:text-green-300 transition-colors break-words">KudiWallet.ng</Link> a live fintech platform serving <span className="text-blue-300">thousands of users</span> with secure wallet management and payment solutions.
                 </p>
               </div>
             </div>
