@@ -149,13 +149,13 @@ export default function Hero() {
                     <div className="font-bold text-sm md:text-base truncate">KudiWallet.ng</div>
                     <div className="text-xs md:text-sm text-zinc-500 truncate">Fintech • 1,000+ Users</div>
                   </div>
-                  <div className="w-8 h-8 md:w-10 md:h-10 bg-gradient-to-br from-green-500 to-emerald-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                  {/* <div className="w-8 h-8 md:w-10 md:h-10 bg-gradient-to-br from-green-500 to-emerald-500 rounded-lg flex items-center justify-center flex-shrink-0">
                     <ShoppingBag className="w-4 h-4 md:w-5 md:h-5 text-white" />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="font-bold text-sm md:text-base truncate">NorahScentLibrary</div>
                     <div className="text-xs md:text-sm text-zinc-500 truncate">Store • 300+ Users</div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
               
