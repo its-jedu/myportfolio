@@ -7,7 +7,7 @@ const experiences = [
     title: "Software Engineer Intern",
     company: "Wale University",
     role: "Frontend & Full-Stack Developer | Next.js & Nest.js",
-    period: "2023",
+    period: "Sep. 2025 - Dec. 2025",
     location: "Remote",
     achievements: [
       "Built interactive and responsive web pages using Next.js",
@@ -23,7 +23,7 @@ const experiences = [
     title: "Backend Engineer (Freelance)",
     company: "NorahScent",
     role: "Backend Architecture & Payment Integration",
-    period: "2022",
+    period: "Sep. 2025 - Oct     . 2025",
     location: "Remote",
     achievements: [
       "Designed and built full backend architecture",
@@ -37,7 +37,7 @@ const experiences = [
     title: "Founder & Full-Stack Developer",
     company: "KudiWallet.ng",
     role: "Product Development & System Architecture",
-    period: "2021 - Present",
+    period: "Mar. 2025 - Present",
     location: "Nigeria",
     achievements: [
       "Built and scaled a fintech platform to 3,000+ users",
