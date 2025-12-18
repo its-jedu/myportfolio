@@ -12,7 +12,7 @@ export default function Hero() {
           <div className="flex-1 space-y-6 md:space-y-8">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-blue-500/10 border border-blue-500/30">
               <Sparkles className="w-3 h-3 md:w-4 md:h-4 text-blue-400" />
-              <span className="text-xs md:text-sm font-medium text-blue-400">Full-Stack Engineer & Founder</span>
+              <span className="text-xs md:text-sm font-medium text-blue-400">Full-Stack Developer</span>
             </div>
 
             <div>

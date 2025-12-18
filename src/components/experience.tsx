@@ -4,7 +4,7 @@ import { Calendar, MapPin, Building } from "lucide-react";
 
 const experiences = [
   {
-    title: "Software Engineer Intern",
+    title: "Software Engineer",
     company: "Wale University",
     role: "Frontend & Full-Stack Developer | Next.js & Nest.js",
     period: "Sep. 2025 - Dec. 2025",
