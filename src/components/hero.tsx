@@ -64,7 +64,7 @@ export default function Hero() {
                   View My Work
                 </Button>
               </Link>
-              <Link href="/OlajideCV..pdf" target="_blank" className="flex-1 sm:flex-none">
+              <Link href="/OlajideCV.pdf" target="_blank" className="flex-1 sm:flex-none">
                 <Button variant="outline" className="w-full sm:w-auto min-h-[44px] md:min-h-[52px] text-base md:text-lg px-6 md:px-8 py-3 md:py-4 rounded-lg md:rounded-xl border-zinc-700 hover:border-blue-500 hover:bg-blue-500/10">
                   Download CV
                 </Button>
