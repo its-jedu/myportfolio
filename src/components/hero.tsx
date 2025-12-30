@@ -113,7 +113,7 @@ export default function Hero() {
             {/* Tech Stack Visualization */}
             <div className="grid grid-cols-2 gap-4 md:gap-6">
               {[
-                { icon: Code2, label: "Frontend", color: "from-blue-500 to-cyan-500", count: "5+ Years" },
+                { icon: Code2, label: "Frontend", color: "from-blue-500 to-cyan-500", count: "3+ Years" },
                 { icon: Server, label: "Backend", color: "from-green-500 to-emerald-500", count: "5+ Years" },
                 { icon: Database, label: "Database", color: "from-purple-500 to-pink-500", count: "Expert" },
                 { icon: Cloud, label: "Cloud", color: "from-orange-500 to-red-500", count: "AWS/Azure" },
